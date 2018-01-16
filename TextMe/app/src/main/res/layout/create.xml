@@ -18,7 +18,7 @@
             android:layout_marginRight="20dp"
             android:hint="Number"
             android:textAlignment="center"
-            android:inputType="number"
+            android:inputType="phone"
             android:ems="10" />
 
         <EditText
