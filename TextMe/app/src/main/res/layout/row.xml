@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lbl"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:text="9877676656"
+            android:textColor="#0e0e0e"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/msg"
+            android:textSize="14sp"
+            android:text="Hello Students"
+            android:textColor="#2e2e2e"/>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
